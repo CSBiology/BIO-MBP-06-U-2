@@ -1,0 +1,10 @@
+- Proteinexpression
+- Aktivator/Repressor
+- Autoregulation
+  - Simpliefied Version Lac Operon
+- Toggleswitch
+  - Nullcine Methode
+  - Saddlenode-Bifurcation
+- Oszillation
+  - Hopf-Bifurkation (ß,n)
+- Proteinexpression (response time) -> Stochastisches Modell
